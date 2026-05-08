@@ -5,4 +5,4 @@ Este repositorio contiene el software, análisis de datos y la propuesta de hard
 
 ## Estudio de la Cuestión
 El marco teórico y la revisión sistemática que fundamentan esta implementación se detallan en el siguiente documento:
-* [Enlace al Manuscrito: Precisión y Viabilidad de los Sensores Inerciales (IMU) y Wearables para la Monitorización Biomecánica y de Potencia en el Ciclismo](introduccion/Precision_y_Viabilidad_de_los_Sensores_Inerciales.pdf)
+* [Enlace al Manuscrito: Precisión y Viabilidad de los Sensores Inerciales (IMU) y Wearables para la Monitorización Biomecánica y de Potencia en el Ciclismo](Precision_y_Viabilidad_de_los_Sensores_Inerciales.pdf)
